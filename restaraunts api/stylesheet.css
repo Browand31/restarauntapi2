@@ -1,0 +1,92 @@
+img{width: 200px;}
+
+
+#BBQ {text-align: center;
+    background-color:#ff6eee;
+    box-sizing: content-box;
+    width:fit-content;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 2px 16px;
+  }
+
+  #Donuts{text-align: center;
+    background-color:#ed6866 ;
+    box-sizing: content-box;
+    width:fit-content;
+    background-size: contain;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 2px 16px;}
+
+  #sushi{text-align: center;
+    background-color:#ffdd80 ;
+    box-sizing: content-box;
+    width:fit-content;
+    background-size: contain;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 2px 16px;}
+
+    #roxberry{text-align: center;
+        background-color:#ef78f5 ;
+        box-sizing: content-box;
+        width:fit-content;
+        background-size: contain;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 2px 16px;}
+
+    #home depot{text-align: center;
+        background-color:#d9980d ;
+        box-sizing: content-box;
+        width:fit-content;
+        background-size: contain;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 2px 16px;}
+
+    #soda{text-align: center;
+        background-color:#b3f9ff ;
+        box-sizing: content-box;
+        width:fit-content;
+        background-size: contain;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 2px 16px;}
+
+    #UPS{text-align: center;
+        background-color:#e6db0e ;
+        box-sizing: content-box;
+        width:fit-content;
+        background-size: contain;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 2px 16px;}
+
+    #insurance{text-align: center;
+        background-color:#b8b8b6 ;
+        box-sizing: content-box;
+        width:fit-content;
+        background-size: contain;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 2px 16px;}
+
+        #med {text-align: center;
+            background-color:#75c1ff ;
+            box-sizing: content-box;
+            width:fit-content;
+            background-size: contain;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            transition: 0.3s;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            padding: 2px 16px;}
